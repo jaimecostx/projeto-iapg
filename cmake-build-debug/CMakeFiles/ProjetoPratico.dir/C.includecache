@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jaime/3D Objects/ProjetoSoftware/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+time.h
+-
+

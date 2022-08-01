@@ -1,0 +1,13 @@
+DATA: Jan 16 2021 
+HORA: 18:04:43
+
+player 1 : jaime
+   pontos : 3 
+player 2 : pedro
+   pontos : 3 
+player 3 : maria
+   pontos : 1 
+
+x--HIGHSCORE--x
+player : jaime
+  pontos : 3

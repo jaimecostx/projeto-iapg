@@ -1,0 +1,3 @@
+C:/Users/jaime/3D Objects/ProjetoSoftware/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jaime/3D Objects/ProjetoSoftware/cmake-build-debug/CMakeFiles/ProjetoPratico.dir
+C:/Users/jaime/3D Objects/ProjetoSoftware/cmake-build-debug/CMakeFiles/rebuild_cache.dir
